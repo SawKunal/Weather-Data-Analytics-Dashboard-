@@ -42,12 +42,12 @@ Global-Weather-Dashboard/
 ├─ measures/
 │ └─ dax-measures.txt # DAX snippets used in the model
 └─ README.md
-🌐 Cities Covered (sample)
 
+## 🌐 Cities Covered (sample)
 Cairo • Mumbai • Reykjavik • London • New York • Tokyo • Sydney • São Paulo
 (Extend by adding city names to the parameter list / table.)
 
-🔌 Power Query (M) – API Ingestion (Example)
+## 🔌 Power Query (M) – API Ingestion (Example)
 
 Create two parameters in Power Query:
 
@@ -120,7 +120,7 @@ in
 
 Note: WeatherAPI’s free tier has request limits—consider incremental refresh / scheduled refresh cadence accordingly.
 
-🧮 DAX Snippets
+## 🧮 DAX Snippets
 
 1) Rain Probability (display as %):
 
@@ -148,7 +148,7 @@ AVERAGEX(
 
 (For forecasting, use Power BI’s Analytics pane on line charts to add trend/forecast lines.)
 
-📊 Recommended Visuals
+## 📊 Recommended Visuals
 
 Cards: Current Temp, Humidity, Wind, Precip
 
@@ -160,7 +160,7 @@ Sunburst/Donut: Condition distribution (Clear/Cloudy/Rain)
 
 Custom: Sunrise/Sunset (by city) for daylight comparison
 
-🔒 Data & API Notes
+## 🔒 Data & API Notes
 
 Source: WeatherAPI.com (Current + Forecast endpoints)
 
@@ -168,7 +168,7 @@ Respect API usage limits; avoid excessive refreshes.
 
 Consider parameterizing city lists and using incremental refresh for efficiency.
 
-✅ Use Cases
+## ✅ Use Cases
 
 City-level environmental awareness
 
@@ -178,7 +178,7 @@ Weather trend analysis for education
 
 Support for renewable energy and agriculture
 
-🚀 Roadmap
+## 🚀 Roadmap
 
  Add hourly forecasts
 
@@ -188,11 +188,11 @@ Support for renewable energy and agriculture
 
  Optional: push data to a lakehouse for long-term history
 
-🤝 Contributing
+## 🤝 Contributing
 
 PRs welcome! Please open an issue for feature requests or bugs.
 
-📜 License
+## 📜 License
 
 MIT — see LICENSE
  for details.
