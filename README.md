@@ -1,6 +1,6 @@
 # Weather-Data-Analytics-Dashboard-(Power BI)
 
-![Uploading Screenshot 2025-09-03 225420.png…]()
+<img width="3360" height="1890" alt="bdgVnDZ34QerKKr5min7EH" src=<img width="1388" height="802" alt="Screenshot 2025-09-03 225420" src="https://github.com/user-attachments/assets/30c27fc0-2af5-4c8e-bad7-d360eae49283" />/>
 
 
 An interactive weather analytics dashboard built in **Power BI**, leveraging data from **WeatherAPI.com**. It provides a comprehensive view of current and forecasted weather conditions for major global cities—supporting environmental monitoring, strategic planning, and educational analysis.
