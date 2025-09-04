@@ -32,6 +32,7 @@ An interactive weather analytics dashboard built in **Power BI**, leveraging dat
 ---
 
 ## 🗂️ Repo Structure
+```
 Global-Weather-Dashboard/
 ├─ assets/
 │ └─ overview.png # ← Add one screenshot here (used in README)
@@ -42,6 +43,7 @@ Global-Weather-Dashboard/
 ├─ measures/
 │ └─ dax-measures.txt # DAX snippets used in the model
 └─ README.md
+```
 
 ---
 
